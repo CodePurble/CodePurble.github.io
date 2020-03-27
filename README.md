@@ -5,14 +5,12 @@
 > [Github](https://github.com/CodePurble)
 
 ------
-
 ### Profile {#profile}
 
 Self driven techie with a penchant for rapid prototyping using microcontrollers
 and development boards.
 
 ------
-
 ### Education {#education}
 
 * BE (Electronics and Communication Engineering), National Institute of Engineering, Mysuru: Second Year, **CGPA - 9.12/10**
@@ -21,7 +19,6 @@ and development boards.
 * CBSE Class 10 Board Examinations 2016, **CGPA - 10/10**
 
 ------
-
 ### Technical Skills {#technical}
 
 * Microcontrollers
@@ -35,7 +32,6 @@ and development boards.
 	* Git, make, Docker, virtual machines
 
 ------
-
 ### Software Projects {#swprojects}
 
 * **Projectile Motion Simulator**
@@ -49,7 +45,6 @@ and development boards.
 	* Github: [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
 
 ------
-
 ### Hardware Projects {#hwprojects}
 
 * **Computer Clock Module**
@@ -61,20 +56,17 @@ and development boards.
 	* Technologies: Arduino, LCD
 
 ------
-
 ### Organisational/Leadership Skills {#leadership}
 
 * Hardware Focus Group Lead at NIE IEEE Student Branch
 
 ------
-
 ### Hobbies {#hobbies}
 
 * Speedcubing: Personal best time of 19.03 seconds
 * DJ'ing
 
 ------
-
 ### Languages {#languages}
 
 * English
