@@ -25,14 +25,14 @@ and development boards.
 ### Technical Skills {#technical}
 
 * Microcontrollers
-	: Arduino, ESP32, ARM (Familiar with Cortex M3)
+	* Arduino, ESP32, ARM (Familiar with Cortex M3)
 
 * Software
-	: Python 3, C/C++
+	* Python 3, C/C++
 
-* Backend Infrastructure
-	: Linux: Installation, troubleshooting, scripting
-	: Virtual machines, Docker, Git, make
+* Back-end Infrastructure
+	* Linux: Installation, troubleshooting, scripting
+	* Git, make, Docker, virtual machines
 
 ------
 
