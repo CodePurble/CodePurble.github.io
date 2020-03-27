@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+# Ramprakash Chandrashekar
 
-You can use the [editor on GitHub](https://github.com/CodePurble/CodePurble.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> [ramprakash.chandrashekar@gmail.com](ramprakash.chandrashekar@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> [Github](https://github.com/CodePurble)
 
-### Markdown
+------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Profile {#profile}
 
-```markdown
-Syntax highlighted code block
+Self driven techie with a penchant for rapid prototyping using microcontrollers
+and development boards.
 
-# Header 1
-## Header 2
-### Header 3
+------
 
-- Bulleted
-- List
+### Education {#education}
 
-1. Numbered
-2. List
+* BE (Electronics and Communication Engineering), The National Institute of Engineering, Mysuru - Second Year, **CGPA - 9.12/10**
+* Karnataka Common Entrance Test (KCET) for engineering admissions 2018 **Rank - 2099**
+* CBSE Class 12 Board Examinations 2018, **Percentage - 94%** (On school merit list)
+* CBSE Class 10 Board Examinations 2016, **CGPA - 10/10**
 
-**Bold** and _Italic_ and `Code` text
+------
 
-[Link](url) and ![Image](src)
-```
+### Technical Skills {#technical}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Microcontrollers
+	: Arduino, ESP32, ARM (Familiar with Cortex M3)
 
-### Jekyll Themes
+* Software
+	: Python 3, C/C++
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodePurble/CodePurble.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Backend Infrastructure
+	: Linux - Installation, troubleshooting, scripting
+	: Virtual machines, Docker, Git, make
+<!-- | Hardware                            | Software | Linux           | Other back-end infrastructure | -->
+<!-- |-------------------------------------|----------|-----------------|-------------------------------| -->
+<!-- | Arduino                             | Python 3 | Installation    | Git                           | -->
+<!-- | ESP32                               | C/C++    | Troubleshooting | make                          | -->
+<!-- | ARM (familiar with Cortex M3)       |          | Scripting       | Docker                        | -->
+<!-- | Interfacing servos, motors, sensors |          |                 | Virtual machines              | -->
 
-### Support or Contact
+------
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Software Projects {#swprojects}
+
+* **Projectile Motion Simulator**
+	* Description - 2D projectile motion simulation and visualisation under various physical conditions
+	* Technologies - Python 3, numpy, matplotlib, Git, Manjaro Linux
+	* Github - [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
+
+* **Data Structures Library**
+	* Description - Library of common data structures
+	* Technologies - C++, make, Ctags
+	* Github - [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
+
+------
+
+### Hardware Projects {#hwprojects}
+
+* **Computer Clock Module**
+	* Description - Digital clock signal generator with single stepping capabilities
+	* Technologies - 555 timer
+
+* **Quiz Machine**
+	* Description - Interactive quiz machine built during a 24 hour hackathon
+	* Technologies - Arduino, LCD
+
+------
+
+### Organisational/Leadership Skills {#leadership}
+
+* Hardware Focus Group Lead at NIE IEEE Student Branch
+
+------
+
+### Hobbies {#hobbies}
+
+* Speedcubing - Personal best time of 19.03 seconds
+* DJ'ing
+
+------
+
+### Languages {#languages}
+
+* English
+* Tamil
+* Hindi
+* Kannada
+* German (learning)
