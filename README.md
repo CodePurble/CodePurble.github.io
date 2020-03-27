@@ -15,7 +15,7 @@ and development boards.
 
 ### Education {#education}
 
-* BE (Electronics and Communication Engineering), The National Institute of Engineering, Mysuru - Second Year, **CGPA - 9.12/10**
+* BE (Electronics and Communication Engineering), National Institute of Engineering, Mysuru: Second Year, **CGPA - 9.12/10**
 * Karnataka Common Entrance Test (KCET) for engineering admissions 2018 **Rank - 2099**
 * CBSE Class 12 Board Examinations 2018, **Percentage - 94%** (On school merit list)
 * CBSE Class 10 Board Examinations 2016, **CGPA - 10/10**
@@ -31,40 +31,34 @@ and development boards.
 	: Python 3, C/C++
 
 * Backend Infrastructure
-	: Linux - Installation, troubleshooting, scripting
+	: Linux: Installation, troubleshooting, scripting
 	: Virtual machines, Docker, Git, make
-<!-- | Hardware                            | Software | Linux           | Other back-end infrastructure | -->
-<!-- |-------------------------------------|----------|-----------------|-------------------------------| -->
-<!-- | Arduino                             | Python 3 | Installation    | Git                           | -->
-<!-- | ESP32                               | C/C++    | Troubleshooting | make                          | -->
-<!-- | ARM (familiar with Cortex M3)       |          | Scripting       | Docker                        | -->
-<!-- | Interfacing servos, motors, sensors |          |                 | Virtual machines              | -->
 
 ------
 
 ### Software Projects {#swprojects}
 
 * **Projectile Motion Simulator**
-	* Description - 2D projectile motion simulation and visualisation under various physical conditions
-	* Technologies - Python 3, numpy, matplotlib, Git, Manjaro Linux
-	* Github - [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
+	* Description: 2D projectile motion simulation and visualisation under various physical conditions
+	* Technologies: Python 3, numpy, matplotlib, Git, Manjaro Linux
+	* Github: [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
 
 * **Data Structures Library**
-	* Description - Library of common data structures
-	* Technologies - C++, make, Ctags
-	* Github - [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
+	* Description: Library of common data structures
+	* Technologies: C++, make, Ctags
+	* Github: [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
 
 ------
 
 ### Hardware Projects {#hwprojects}
 
 * **Computer Clock Module**
-	* Description - Digital clock signal generator with single stepping capabilities
-	* Technologies - 555 timer
+	* Description: Digital clock signal generator with single stepping capabilities
+	* Technologies: 555 timer
 
 * **Quiz Machine**
-	* Description - Interactive quiz machine built during a 24 hour hackathon
-	* Technologies - Arduino, LCD
+	* Description: Interactive quiz machine built during a 24 hour hackathon
+	* Technologies: Arduino, LCD
 
 ------
 
@@ -76,7 +70,7 @@ and development boards.
 
 ### Hobbies {#hobbies}
 
-* Speedcubing - Personal best time of 19.03 seconds
+* Speedcubing: Personal best time of 19.03 seconds
 * DJ'ing
 
 ------
