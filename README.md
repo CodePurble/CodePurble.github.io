@@ -35,12 +35,12 @@ and development boards.
 ### Software Projects {#swprojects}
 
 * **Projectile Motion Simulator**
-	* Description: 2D projectile motion simulation and visualisation under various physical conditions
+	* 2D projectile motion simulation and visualisation under various physical conditions
 	* Technologies: Python 3, numpy, matplotlib, Git, Manjaro Linux
 	* Github: [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
 
 * **Data Structures Library**
-	* Description: Library of common data structures
+	* Library of common data structures
 	* Technologies: C++, make, Ctags
 	* Github: [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
 
