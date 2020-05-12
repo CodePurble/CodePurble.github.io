@@ -58,7 +58,7 @@ and development boards.
 ------
 ### Organisational/Leadership Skills {#leadership}
 
-* Hardware Focus Group Lead at NIE IEEE Student Branch
+* Former Hardware Focus Group Lead at NIE IEEE Student Branch
 
 ------
 ### Hobbies {#hobbies}
