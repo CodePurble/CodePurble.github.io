@@ -64,7 +64,7 @@ and development boards.
 
 ### Organisational/Leadership Skills {#leadership}
 
-* Former Hardware Focus Group Lead at NIE IEEE Student Branch
+* Former Hardware Focus Group Lead at NIE IEEE Student Branch (Jan-May 2020)
 
 ------
 
