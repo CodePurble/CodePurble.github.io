@@ -55,6 +55,11 @@ and development boards.
 	* Technologies: Python 3, numpy, matplotlib, Git, Manjaro Linux
 	* Github: [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
 
+* **Scrabble**
+	* A simple, terminal based Scrabble game written in C++ using object oriented programming concepts
+	* Technologies: C++11, make, git
+	* Github: [https://github.com/CodePurble/scrabble](https://github.com/CodePurble/scrabble)
+
 * **Data Structures Library**
 	* Library of common data structures
 	* Technologies: C++, make, Ctags, git
