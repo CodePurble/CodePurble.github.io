@@ -48,7 +48,7 @@ and development boards.
 
 * **Projectile Motion Simulator**
     * 2D projectile motion simulation and visualisation under various physical conditions
-    * Technologies: Python 3, numpy, matplotlib, Git, Manjaro Linux
+    * Technologies: Python 3, numpy, matplotlib, git
     * Github: [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
 
 * **Scrabble**
@@ -73,7 +73,7 @@ and development boards.
 
 * Speedcubing: Personal best time of 19.03 seconds
 * DJ'ing
-* _Ricing_ my Linux machine
+* Tinkering with my Linux machine
 
 ------
 
