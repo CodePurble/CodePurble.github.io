@@ -25,45 +25,45 @@ and development boards.
 ### Technical Skills {#technical}
 
 * Microcontrollers
-	* Arduino, ESP32, ARM (Familiar with Cortex M3)
+    * Arduino, ESP32, ARM (Familiar with Cortex M3)
 
 * Software
-	* Python 3, C/C++
+    * Python 3, C/C++
 
 * Back-end Infrastructure
-	* Linux: Installation, troubleshooting, scripting
-	* Git, make, Docker, virtual machines
+    * Linux: Installation, troubleshooting, scripting
+    * Git, make, Docker, virtual machines, cmake
 
 ------
 
 ### Hardware Projects {#hwprojects}
 
 * **Computer Clock Module**
-	* Digital clock signal generator with single stepping capabilities
-	* Technologies: 555 timer
+    * Digital clock signal generator with single stepping capabilities
+    * Technologies: 555 timer
 
 * **Quiz Machine**
-	* Interactive quiz machine built during a 24 hour hackathon
-	* Technologies: Arduino, LCD
+    * Interactive quiz machine built during a 24 hour hackathon
+    * Technologies: Arduino, LCD
 
 ------
 
 ### Software Projects {#swprojects}
 
 * **Projectile Motion Simulator**
-	* 2D projectile motion simulation and visualisation under various physical conditions
-	* Technologies: Python 3, numpy, matplotlib, Git, Manjaro Linux
-	* Github: [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
+    * 2D projectile motion simulation and visualisation under various physical conditions
+    * Technologies: Python 3, numpy, matplotlib, Git, Manjaro Linux
+    * Github: [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
 
 * **Scrabble**
-	* A simple, terminal based Scrabble game written in C++ using object oriented programming concepts
-	* Technologies: C++11, make, git
-	* Github: [https://github.com/CodePurble/scrabble](https://github.com/CodePurble/scrabble)
+    * A simple, terminal based Scrabble game written in C++ using object oriented programming concepts
+    * Technologies: C++11, cmake, git
+    * Github: [https://github.com/CodePurble/scrabble](https://github.com/CodePurble/scrabble)
 
 * **Data Structures Library**
-	* Library of common data structures
-	* Technologies: C++, make, Ctags, git
-	* Github: [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
+    * Library of common data structures
+    * Technologies: C++, make, Ctags, git
+    * Github: [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
 
 ------
 
@@ -77,6 +77,7 @@ and development boards.
 
 * Speedcubing: Personal best time of 19.03 seconds
 * DJ'ing
+* _Ricing_ my Linux machine
 
 ------
 
