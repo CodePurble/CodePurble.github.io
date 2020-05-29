@@ -42,10 +42,6 @@ and development boards.
     * Digital clock signal generator with single stepping capabilities
     * Technologies: 555 timer
 
-* **Quiz Machine**
-    * Interactive quiz machine built during a 24 hour hackathon
-    * Technologies: Arduino, LCD
-
 ------
 
 ### Software Projects {#swprojects}
