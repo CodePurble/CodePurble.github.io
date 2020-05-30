@@ -54,7 +54,9 @@ and development boards.
 * **Scrabble**
     * A simple, terminal based Scrabble game written in C++ using object oriented programming concepts
     * Technologies: C++11, cmake, git
+    * Documentation: [https://codepurble.github.io/rp-scrabble/](https://codepurble.github.io/rp-scrabble/)
     * Github: [https://github.com/CodePurble/rp-scrabble](https://github.com/CodePurble/rp-scrabble)
+    
 
 * **Data Structures Library**
     * Library of common data structures
