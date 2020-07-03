@@ -47,19 +47,20 @@ and development boards.
 ### Software Projects {#swprojects}
 
 * **Projectile Motion Simulator**
-	* 2D projectile motion simulation and visualisation under various physical conditions
-	* Technologies: Python 3, numpy, matplotlib, Git, Manjaro Linux
-	* Github: [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
+    * 2D projectile motion simulation and visualisation under various physical conditions
+    * Technologies: Python 3, numpy, matplotlib, git
+    * Github: [https://github.com/CodePurble/projectile-project](https://github.com/CodePurble/projectile-project)
 
 * **Scrabble**
-	* A simple, terminal based Scrabble game written in C++ using object oriented programming concepts
-	* Technologies: C++11, cmake, git
-	* Github: [https://github.com/CodePurble/rp-scrabble](https://github.com/CodePurble/rp-scrabble)
+    * A simple, terminal based Scrabble game written in C++ using object oriented programming concepts
+    * Technologies: C++14, cmake, git
+    * Documentation: [https://codepurble.github.io/rp-scrabble/](https://codepurble.github.io/rp-scrabble/)
+    * Github: [https://github.com/CodePurble/rp-scrabble](https://github.com/CodePurble/rp-scrabble)
 
 * **Data Structures Library**
-	* Library of common data structures
-	* Technologies: C++, make, Ctags, git
-	* Github: [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
+    * Library of common data structures
+    * Technologies: C++14, make, Ctags, git
+    * Github: [https://github.com/CodePurble/data-structures](https://github.com/CodePurble/data-structures)
 
 ------
 
@@ -83,7 +84,7 @@ and development boards.
 
 * Speedcubing: Personal best time of 19.03 seconds
 * DJ'ing
-* _Ricing_ my Linux machine
+* Tinkering with my Linux machine
 
 ------
 
