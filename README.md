@@ -75,8 +75,8 @@ and development boards.
 #### Coursera
 
 * Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
-	* 100% Grade**
-	* Certificate- [coursera.org/verify/U4LUX294BDPL](coursera.org/verify/U4LUX294BDPL)
+	* 100% Grade
+	* Certificate- [https://coursera.org/verify/U4LUX294BDPL](https://coursera.org/verify/U4LUX294BDPL)
 
 ------
 
