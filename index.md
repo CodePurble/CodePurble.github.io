@@ -1,4 +1,7 @@
-# Ramprakash Chandrashekar
+---
+title: Ramprakash Chandrashekar
+layout: default
+---
 
 > [cramprakash@ieee.org](cramprakash@ieee.org)
 
@@ -6,14 +9,7 @@
 
 ------
 
-### Profile {#profile}
-
-Self driven techie with a penchant for rapid prototyping using microcontrollers
-and development boards.
-
-------
-
-### Education {#education}
+## Education {#education}
 
 * BE (Electronics and Communication Engineering), National Institute of Engineering, Mysuru: Second Year, **CGPA - 9.12/10**
 * Karnataka Common Entrance Test (KCET) for engineering admissions 2018 **Rank - 2099**
@@ -22,7 +18,7 @@ and development boards.
 
 ------
 
-### Technical Skills {#technical}
+## Technical Skills {#technical}
 
 * Microcontrollers
 	* Arduino, ESP32, ARM (Familiar with Cortex M3)
@@ -36,7 +32,7 @@ and development boards.
 
 ------
 
-### Hardware Projects {#hwprojects}
+## Hardware Projects {#hwprojects}
 
 * **Computer Clock Module**
 	* Digital clock signal generator with single stepping capabilities
@@ -44,7 +40,7 @@ and development boards.
 
 ------
 
-### Software Projects {#swprojects}
+## Software Projects {#swprojects}
 
 * **Projectile Motion Simulator**
     * 2D projectile motion simulation and visualisation under various physical conditions
@@ -64,23 +60,23 @@ and development boards.
 
 ------
 
-### Organisational/Leadership Skills {#leadership}
+## Organisational/Leadership Skills {#leadership}
 
 * Former Hardware Focus Group Lead at NIE IEEE Student Branch (Jan-May 2020)
 
 ------
 
-### Certifications {#certifications}
+## Certifications {#certifications}
 
-#### Coursera
+* Coursera- Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+ [(View certificate)](https://coursera.org/verify/U4LUX294BDPL)
 
-* **Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)**
-	* 100% Grade
-	* Certificate- [https://coursera.org/verify/U4LUX294BDPL](https://coursera.org/verify/U4LUX294BDPL)
+* NPTEL- Programming, Data Structures and Algorithms using Python
+ [(View certificate)](./assets/Programming-Data-Structures-and-Algorithms-using-Python-certificate.jpg)
 
 ------
 
-### Hobbies {#hobbies}
+## Hobbies {#hobbies}
 
 * Speedcubing: Personal best time of 19.03 seconds
 * DJ'ing
@@ -88,7 +84,7 @@ and development boards.
 
 ------
 
-### Languages {#languages}
+## Languages {#languages}
 
 * English
 * Tamil
