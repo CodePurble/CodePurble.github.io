@@ -26,7 +26,7 @@ layout: default
 
 * Back-end Infrastructure
 	* Linux: Installation, troubleshooting, scripting
-	* Git, make, Docker, virtual machines, cmake
+	* Git, make, Docker, virtual machines, cmake, Doxygen
 
 ------
 
@@ -48,7 +48,7 @@ layout: default
 * **Scrabble**
     * A simple, terminal based Scrabble game written in C++ using object oriented programming concepts
     * Technologies: C++14, cmake, git
-    * Documentation: [https://codepurble.github.io/rp-scrabble/](https://codepurble.github.io/rp-scrabble/)
+    * Documentation (Doxygen): [https://codepurble.github.io/rp-scrabble/](https://codepurble.github.io/rp-scrabble/)
     * Github: [https://github.com/CodePurble/rp-scrabble](https://github.com/CodePurble/rp-scrabble)
 
 * **Data Structures Library**
@@ -66,11 +66,10 @@ layout: default
 
 ## Certifications {#certifications}
 
-* Coursera- Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
- [(View certificate)](https://coursera.org/verify/U4LUX294BDPL)
-
-* NPTEL- Programming, Data Structures and Algorithms using Python
- [(View certificate)](./assets/Programming-Data-Structures-and-Algorithms-using-Python-certificate.jpg)
+| Platform | Month of completion | Course Name                                                                                  |                                         Certificate                                        |
+|:---------|:--------------------|:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------:|
+| Coursera | July 2020           | Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) |                     [(View)](https://coursera.org/verify/U4LUX294BDPL)                     |
+| NPTEL    | Sept 2018           | Programming, Data Structures and Algorithms using Python                                     | [(View)](./assets/Programming-Data-Structures-and-Algorithms-using-Python-certificate.jpg) |
 
 ------
 
