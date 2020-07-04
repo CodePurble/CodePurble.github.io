@@ -66,10 +66,10 @@ layout: default
 
 ## Certifications {#certifications}
 
-| Platform | Month of completion | Course Name                                                                                  |                                         Certificate                                        |
-|:---------|:--------------------|:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------:|
-| Coursera | July 2020           | Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) |                     [(View)](https://coursera.org/verify/U4LUX294BDPL)                     |
-| NPTEL    | Sept 2018           | Programming, Data Structures and Algorithms using Python                                     | [(View)](./assets/Programming-Data-Structures-and-Algorithms-using-Python-certificate.jpg) |
+| Platform | Month of completion | Course Name                                                                                  |                     Certificate                    |
+|:---------|:--------------------|:---------------------------------------------------------------------------------------------|:--------------------------------------------------:|
+| Coursera | July 2020           | Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) | [(View)](https://coursera.org/verify/U4LUX294BDPL) |
+| NPTEL    | Sept 2018           | Programming, Data Structures and Algorithms using Python                                     |       [(View)](./assets/pdsa-certificate.jpg)      |
 
 ------
 
