@@ -3,9 +3,7 @@ title: Ramprakash Chandrashekar
 layout: default
 ---
 
-> [cramprakash@ieee.org](cramprakash@ieee.org)
-
-> [Github](https://github.com/CodePurble)
+| [cramprakash@ieee.org](cramprakash@ieee.org) | [Github](https://github.com/CodePurble) | [Resume](./assets/resume.pdf) |
 
 ------
 
