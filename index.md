@@ -60,8 +60,8 @@ layout: default
 
 ## Organisational/Leadership Skills {#leadership}
 
-* Vice-Chairperson, NIE IEEE Student Branch
-* (Former) Hardware Focus Group Lead at NIE IEEE Student Branch (Jan-May 2020)
+* Vice-Chairperson, NIE IEEE Student Branch (Jul 2020 - Present)
+* (Former) Hardware Focus Group Lead at NIE IEEE Student Branch (Jan 2020 - May 2020)
 
 ------
 
