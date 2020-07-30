@@ -3,7 +3,7 @@ title: Ramprakash Chandrashekar
 layout: default
 ---
 
-| [cramprakash@ieee.org](cramprakash@ieee.org) | [Github](https://github.com/CodePurble) | [Resume](./assets/resume.pdf) |
+| [cramprakash@ieee.org](cramprakash@ieee.org) | [Github](https://github.com/CodePurble) | [Resume](/assets/resume.pdf) |
 
 ------
 
@@ -60,17 +60,17 @@ layout: default
 
 ## Organisational/Leadership Skills {#leadership}
 
-* Former Hardware Focus Group Lead at NIE IEEE Student Branch (Jan-May 2020)
+* Vice-Chairperson, NIE IEEE Student Branch
+* (Former) Hardware Focus Group Lead at NIE IEEE Student Branch (Jan-May 2020)
 
 ------
 
 ## Certifications {#certifications}
 
-* Coursera- Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
- [(View certificate)](https://coursera.org/verify/U4LUX294BDPL)
-
-* NPTEL- Programming, Data Structures and Algorithms using Python
- [(View certificate)](./assets/Programming-Data-Structures-and-Algorithms-using-Python-certificate.jpg)
+| Platform | Month of completion | Course Name                                                                                  |                     Certificate                    |
+|:---------|:--------------------|:---------------------------------------------------------------------------------------------|:--------------------------------------------------:|
+| Coursera | July 2020           | Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) | [(View)](https://coursera.org/verify/U4LUX294BDPL) |
+| NPTEL    | Sept 2018           | Programming, Data Structures and Algorithms using Python                                     |       [(View)](/assets/pdsa-certificate.jpg)      |
 
 ------
 
