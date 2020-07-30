@@ -3,7 +3,7 @@ title: Ramprakash Chandrashekar
 layout: default
 ---
 
-| [cramprakash@ieee.org](cramprakash@ieee.org) | [Github](https://github.com/CodePurble) | [Resume](./assets/resume.pdf) |
+| [cramprakash@ieee.org](cramprakash@ieee.org) | [Github](https://github.com/CodePurble) | [Resume](/assets/resume.pdf) |
 
 ------
 
@@ -60,7 +60,8 @@ layout: default
 
 ## Organisational/Leadership Skills {#leadership}
 
-* Former Hardware Focus Group Lead at NIE IEEE Student Branch (Jan-May 2020)
+* Vice-Chairperson, NIE IEEE Student Branch
+* (Former) Hardware Focus Group Lead at NIE IEEE Student Branch (Jan-May 2020)
 
 ------
 
