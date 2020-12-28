@@ -3,13 +3,13 @@ title: Ramprakash Chandrashekar
 layout: default
 ---
 
-| [cramprakash@ieee.org](cramprakash@ieee.org) | [Github](https://github.com/CodePurble) | [Resume](/assets/resume.pdf) |
+| [cramprakash@ieee.org](cramprakash@ieee.org) | [Github](https://github.com/CodePurble) | [LinkedIn](https://www.linkedin.com/in/ramprakash-chandrashekar-99b4851b3/) | [Resume](/assets/resume.pdf)
 
 ------
 
 ## Education {#education}
 
-* BE (Electronics and Communication Engineering), National Institute of Engineering, Mysuru: Second Year, **CGPA - 9.12/10**
+* BE (Electronics and Communication Engineering), National Institute of Engineering, Mysuru: Third Year, **CGPA - 9.12/10**
 * Karnataka Common Entrance Test (KCET) for engineering admissions 2018 **Rank - 2099**
 * CBSE Class 12 Board Examinations 2018, **Percentage - 94%** (On school merit list)
 * CBSE Class 10 Board Examinations 2016, **CGPA - 10/10**
